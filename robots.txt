@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ojixeeva.github.io/ELG/sitemap_index.txt
+Sitemap: https://ojixeeva.github.io/epU/sitemap_index.txt
+Sitemap: https://ojixeeva.github.io/phl/sitemap_index.txt
+Sitemap: https://ojixeeva.github.io/ufC/sitemap_index.txt
